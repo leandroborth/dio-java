@@ -23,5 +23,7 @@ public class Operadores {
         System.out.println(!variavel); // passou a ser false
         variavel = !variavel; // passou a ser false
         System.out.println(variavel);
+
+        System.out.println("Olá!");
     }
 }
